@@ -1,1 +1,4 @@
-new fle 
+new file
+in work area
+in staged area
+in commit area
