@@ -24,7 +24,7 @@ pipeline {
     post{
         always
         {
-            emailext body: 'Mail from jenkins after running the project ', subject: 'Jenkins Test', to: 'qa.ssdtest@gmail.com'
+            emailext body: 'Mail from jenkins after running the pipelineWithGithub project ', subject: 'PipelineWithGithub Jenkins Test', to: 'qa.ssdtest@gmail.com'
         }
     }
     
