@@ -2,3 +2,4 @@ new file
 in work area
 in staged area
 in commit area
+777
